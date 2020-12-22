@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #ffd5cd;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
+}
+span {
+    text-decoration: underline;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    color: #8675a9;
+    
+}
+.h2 {
+    font-size: 2.5rem;
+    color: #8675a9;
+    font-weight: normal;
+}
+h2 {
+    font-size: 2.5rem;
+    color: #8675a9;
+    font-weight: normal;
+}
+.top {
+    background-color: #ffd5cd;
+    position: relative;
+    padding-top: 100px;
+}
+.cloud2{
+  position: absolute;
+  margin-left: 25px;
+    
+}
+.cloud1 {
+    position: relative;
+    margin: 0 0 0 400px;
+
+}
+.profile {
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+}
+.circle-pic {
+    padding-top: 25px;
+}
+.react {
+    width: 25%;
+    height: auto;
+    float: right;
+    padding-left: 30px;
+}
+.javascript {
+    width: 25%;
+    height: auto;
+    float: left;
+    padding-right: 30px;
+}
+h3 {
+    color: #8675a9;
+
+}
+.work {
+    color: #8675a9;
+    margin: auto;
+}
+
+.footer-link {
+    color: #c3aed6;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 5px;
+    padding: 20px;
+    
+}
+
+.skills {
+    
+    text-align: center;
+    
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    
+    
+    
+}
+.skill-header {
+    text-align: left;
+    color: #8675a9;
+}
+
+.skill-text {
+    text-align: left;
+    line-height: 2;
+}
+.name-heading {
+    color: #8675a9;
+}
+hr {
+    width: 10%;
+    border-top: 10px dotted #c3aed6;
+    border-bottom: none;
+        
+}
+.Button {
+    background: #8371A6;
+    background-image: -webkit-linear-gradient(top, #8371A6, #8371A6);
+    background-image: -moz-linear-gradient(top, #8371A6, #8371A6);
+    background-image: -ms-linear-gradient(top, #8371A6, #8371A6);
+    background-image: -o-linear-gradient(top, #8371A6, #8371A6);
+    background-image: -webkit-gradient(to bottom, #8371A6, #8371A6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #ffd5cd;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 25px;
+    margin-bottom: 60px;
+    margin-top: 20px;
+    border: solid #8675A9 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .Button:hover {
+    background: #C3AED6;
+    border: solid #C3AED6 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .bottom-container {
+     background-color: #8675A9;
+     padding-top: 45px;
+     height: 100px;
+ }
+ .copyright {
+     color: #ffd5cd;
+     font-size: 12px;
+     padding-top: 25px;
+ }
+
+
